@@ -1,0 +1,9 @@
+D:\Орест\С#\WWT\FirstMillionaire\FirstMillionaire.Core\obj\Debug\FirstMillionaire.Core.csprojResolveAssemblyReference.cache
+D:\Орест\С#\WWT\FirstMillionaire\FirstMillionaire.Core\bin\Debug\FirstMillionaire.Core.dll
+D:\Орест\С#\WWT\FirstMillionaire\FirstMillionaire.Core\bin\Debug\FirstMillionaire.Core.pdb
+D:\Орест\С#\WWT\FirstMillionaire\FirstMillionaire.Core\bin\Debug\FirstMillionaire.Domain.dll
+D:\Орест\С#\WWT\FirstMillionaire\FirstMillionaire.Core\bin\Debug\FirstMillionaire.Repositories.dll
+D:\Орест\С#\WWT\FirstMillionaire\FirstMillionaire.Core\bin\Debug\FirstMillionaire.Domain.pdb
+D:\Орест\С#\WWT\FirstMillionaire\FirstMillionaire.Core\bin\Debug\FirstMillionaire.Repositories.pdb
+D:\Орест\С#\WWT\FirstMillionaire\FirstMillionaire.Core\obj\Debug\FirstMillionaire.Core.dll
+D:\Орест\С#\WWT\FirstMillionaire\FirstMillionaire.Core\obj\Debug\FirstMillionaire.Core.pdb

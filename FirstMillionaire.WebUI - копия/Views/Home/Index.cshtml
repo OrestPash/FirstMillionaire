@@ -1,0 +1,35 @@
+﻿@model FirstMillionaire.WebUI.Models.User
+
+@{
+    ViewBag.Title = "Start Page";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="~/Content/Validation.css" />
+    <meta name="viewport" content="width=device-width" />
+</head>
+<body>
+
+    <h2>Dear player, please go through the simple registration:</h2>
+
+    @using (Html.BeginForm())
+    {
+        @Html.ValidationSummary()
+        <label>Enter your Name:</label>
+        @Html.TextBoxFor(x => x.Name, new { @class = "form-control" })
+        <label>Enter your Email:</label>
+        @Html.TextBoxFor(x => x.Email, new { @class = "form-control" })
+        <br />
+
+        <input class="btn btn-success" type="submit" value="NewGame" />
+
+    }
+    <br />
+    <img src="~/Content/images/FirstMillionaireStartPage.jpg" width="1050" height="700" alt="Start Page" />
+
+</body>
+</html>

@@ -1,0 +1,82 @@
+﻿.Levels{
+    position: relative;
+    left: 650px; 
+    top: -740px; 
+    width: 200px;
+	height: 400px;
+	background: black;
+}
+
+li{
+    font-family:'Times New Roman', Times, serif;
+    font-size: x-large;
+    color: deepskyblue;
+}
+.White{
+    color: white;
+}
+
+.Question{
+    position: relative;
+    color: #007998;
+    border: 5px solid #d4d4d4;
+    border-color: #007998;
+    left: 9px; 
+    top: -820px; 
+    width: 800px;
+	height: 120px;
+	background: black;
+}
+
+.AnswerA:hover, .AnswerB:hover, .AnswerC:hover,.AnswerD:hover{
+    background-color: yellow;
+}
+
+.AnswerA{
+    position: relative;
+    color: #007998;
+    border: 3px solid #d4d4d4;
+    border-color: #007998;
+    left: 9px; 
+    top: -815px;
+    width: 400px;
+	height: 80px;
+	background: black;
+}
+
+.AnswerB{
+    position: relative;
+    color: #007998;
+    border: 3px solid #d4d4d4;
+    border-color: #007998;
+    left: 9px; 
+    top: -810px;
+    width: 400px;
+	height: 80px;
+	background: black;
+}
+
+.AnswerC{
+    position: relative;
+    color: #007998;
+    border: 3px solid #d4d4d4;
+    border-color: #007998;
+    left: 412px; 
+    top: -975px;
+    width: 400px;
+	height: 80px;
+	background: black;
+}
+
+
+.AnswerD{
+    position: relative;
+    color: #007998;
+    border: 3px solid #d4d4d4;
+    border-color: #007998;
+    left: 412px; 
+    top: -970px;
+    width: 400px;
+	height: 80px;
+	background: black;
+}

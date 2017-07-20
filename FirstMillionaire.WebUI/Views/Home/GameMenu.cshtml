@@ -1,0 +1,77 @@
+﻿@model FirstMillionaire.WebUI.Models.User
+
+
+@{
+    ViewBag.Title = "Game Menu";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="~/Content/ButtonStyle.css">
+    <link rel="stylesheet" type="text/css" href="~/Content/DivStyle.css">
+    <link rel="stylesheet" type="text/css" href="~/Content/TimerStyle.css">
+    <script src="~/Scripts/Prompts.js"></script>
+    <script src="~/Scripts/GameTimer.js"></script>
+    <script src="~/Scripts/ChangeColor.js"></script>
+    <meta name="viewport" content="width=device-width" />
+</head>
+
+<body>
+    <h1>Thank you,@Model.Name for your registration!</h1>
+    <h2>Game already started</h2>
+    <img src="~/Content/images/FirstMillionaireGameMenu.png" width="1050" height="700" alt="Game Menu" />
+    <h2 id="demo"></h2>
+    <input id ="button-changed50" class="button-circle button-50" type="button" onclick="get50()"/>
+    <input id ="button-changedCall" class="button-circle button-Call" type="button" onclick="getCall()"/>
+    <input id ="button-changedHelp" class="button-circle button-Help " type="button" onclick="getHelp()" />
+   
+        <div class="Levels">
+            <ul>
+                <li class="White">15. $1 Million</li>
+                <li>14. $500,000</li>
+                <li>13. $250,000</li>
+                <li>12. $125,000</li>
+                <li>11. $64,000</li>
+                <li class="White">10. $32,000</li>
+                <li>9. $16,000</li>
+                <li>8. $8,000</li>
+                <li>7. $4,000</li>
+                <li>6. $2,000</li>
+                <li class="White">5. $1,000</li>
+                <li>4. $500</li>
+                <li>3. $300</li>
+                <li>2. $200</li>
+                <li>1. $100</li>
+            </ul>
+        </div>
+
+    <div class="Question">
+        <h2> Questions </h2>
+        </div>
+
+    <div class="AnswerA" id="question" onclick="mouseClick()">
+        <h2>A:</h2>
+    </div>
+
+    <div class="AnswerB">
+        <h2>B:</h2>
+    </div>
+
+    <div class="AnswerC">
+        <h2>C:</h2>
+    </div>
+
+    <div class="AnswerD">
+        <h2>D:</h2>
+    </div>
+
+</body>
+</html>
+
+
+
+
+

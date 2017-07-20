@@ -1,0 +1,33 @@
+﻿@model FirstMillionaire.Web.Models.UserModel
+
+<link rel="stylesheet" type="text/css" href="~/Assets/Styles/Site.css" />
+<link rel="stylesheet" type="text/css" href="~/Assets/Styles/bootstrap.css" />
+<link rel="icon" type="image/jpg" href="http://s019.radikal.ru/i600/1707/f0/2708c3dc8f58.png" />
+<title>First Millionaire</title>
+
+<div class="col-lg-6 col-lg-offset-3 text-center panel panel-default">
+
+    <h1>First Millionaire</h1>
+
+    <img src="http://s019.radikal.ru/i600/1707/f0/2708c3dc8f58.png" alt="Logo">
+    <br />
+
+
+    <p>Dear player, please go through the simple registration:</p>
+
+    @using (Html.BeginForm())
+    {
+        @Html.ValidationSummary()
+        <label>Enter your Name: </label>
+        @Html.TextBoxFor(x => x.Name)
+        <br />
+        <br />
+
+        <label>Enter your Email: </label>
+        @Html.TextBoxFor(x => x.Email)
+        <br />
+        <br />
+
+        <input type="submit" class="btn btn-warning custom-button-width .navbar-right" value="Start Game!" />
+    }
+</div>

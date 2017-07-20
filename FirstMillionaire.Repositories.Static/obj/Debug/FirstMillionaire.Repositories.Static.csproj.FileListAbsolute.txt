@@ -1,0 +1,9 @@
+D:\Орест\С#\WWT\FirstMillionaire\FirstMillionaire.Repositories.Static\bin\Debug\FirstMillionaire.Repositories.Static.dll
+D:\Орест\С#\WWT\FirstMillionaire\FirstMillionaire.Repositories.Static\bin\Debug\FirstMillionaire.Repositories.Static.pdb
+D:\Орест\С#\WWT\FirstMillionaire\FirstMillionaire.Repositories.Static\bin\Debug\FirstMillionaire.Domain.dll
+D:\Орест\С#\WWT\FirstMillionaire\FirstMillionaire.Repositories.Static\bin\Debug\FirstMillionaire.Repositories.dll
+D:\Орест\С#\WWT\FirstMillionaire\FirstMillionaire.Repositories.Static\bin\Debug\FirstMillionaire.Domain.pdb
+D:\Орест\С#\WWT\FirstMillionaire\FirstMillionaire.Repositories.Static\bin\Debug\FirstMillionaire.Repositories.pdb
+D:\Орест\С#\WWT\FirstMillionaire\FirstMillionaire.Repositories.Static\obj\Debug\FirstMillionaire.Repositories.Static.dll
+D:\Орест\С#\WWT\FirstMillionaire\FirstMillionaire.Repositories.Static\obj\Debug\FirstMillionaire.Repositories.Static.pdb
+D:\Орест\С#\WWT\FirstMillionaire\FirstMillionaire.Repositories.Static\obj\Debug\FirstMillionaire.Repositories.Static.csprojResolveAssemblyReference.cache

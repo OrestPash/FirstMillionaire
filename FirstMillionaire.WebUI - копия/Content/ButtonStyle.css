@@ -1,0 +1,32 @@
+﻿.button-circle {
+  border: 1px solid #d4d4d4;
+  border-color: #007998;
+  -webkit-border-radius: 240px;
+  width: 60px;
+  height: 60px;
+  border-width: 4px;
+  
+}
+.button-50 { 
+  position: relative;
+  background-image: url( 'http://s018.radikal.ru/i504/1706/99/097def25dcfc.png' );
+  left: 840px;  
+  top: -750px; 
+}
+
+.button-Call{
+  position: relative;
+  background-image: url( 'http://s013.radikal.ru/i325/1706/2b/b23288ace7ad.png' );
+  left: 850px;  
+  top: -750px;
+}
+
+.button-Help{
+  position: relative;
+  background-image: url( 'http://s018.radikal.ru/i508/1706/74/7cc78030c04a.png' );
+  left: 860px;  
+  top: -750px;
+}
+
+
+

@@ -1,0 +1,5 @@
+D:\Орест\С#\WWT\FirstMillionaire\FirstMillionaire.Domain\bin\Debug\FirstMillionaire.Domain.dll
+D:\Орест\С#\WWT\FirstMillionaire\FirstMillionaire.Domain\bin\Debug\FirstMillionaire.Domain.pdb
+D:\Орест\С#\WWT\FirstMillionaire\FirstMillionaire.Domain\obj\Debug\FirstMillionaire.Domain.csprojResolveAssemblyReference.cache
+D:\Орест\С#\WWT\FirstMillionaire\FirstMillionaire.Domain\obj\Debug\FirstMillionaire.Domain.dll
+D:\Орест\С#\WWT\FirstMillionaire\FirstMillionaire.Domain\obj\Debug\FirstMillionaire.Domain.pdb
